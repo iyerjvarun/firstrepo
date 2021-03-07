@@ -1,0 +1,6 @@
+First do
+git add .
+then do
+git commit -m "name of commit"
+then do
+git push origin main
